@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-page-of-changing-links",
+  "version": "1.0.0",
+  "description": "Changing the file link in the html/ejs link by the client response",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "raja",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
